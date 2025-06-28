@@ -38,5 +38,9 @@ Data in Excel                        | Data in Power BI                     | Da
 :-----------------------------------:| :-----------------------------------:| :-----------------------------------:
 ![](Excel.jpg)                       |   ![](Pbi_data.jpg)                  |    ![](pbi.jpg)
 
+Dashboards:
+Overview                             | Industry and Defense Mechanism             
+:-----------------------------------:| :-----------------------------------:
+![](Dashboard1.jpg)                  |   ![](Dashboard2.jpg)                
 
 
