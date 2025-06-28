@@ -36,7 +36,7 @@ To interact with this visual, [CLICK HERE](https://app.powerbi.com/groups/me/rep
 
 Data in Excel                        | Data in Power BI                     | Data Modelling
 :-----------------------------------:| :-----------------------------------:| :-----------------------------------:
-![](Excel.jpg)                           ![](Pbi_data.jpg)                      ![](pbi.jpg)
+![](Excel.jpg)                       |   ![](Pbi_data.jpg)                  |    ![](pbi.jpg)
 
 
 
