@@ -34,7 +34,9 @@ Below are screenshots of data in MS Excel and Power BI during data modelling and
 
 To interact with this visual, [CLICK HERE](https://app.powerbi.com/groups/me/reports/a8ffdf04-4321-4edb-a989-ab2786781005/b244115d95e46990e36e?experience=power-bi)
 
-
+Data in Excel                        | Data in Power BI                     | Data Modelling
+:-----------------------------------:| :-----------------------------------:| :-----------------------------------:
+![](Excel.jpg)                           ![](Pbi_data.jpg)                      ![](pbi.jpg)
 
 
 
