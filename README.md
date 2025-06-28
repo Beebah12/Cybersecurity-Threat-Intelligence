@@ -77,7 +77,7 @@ The data reveals 2017 as the most damaging year ($16 billion lost), with 2023 be
 -  25.62% to unknown hacker groups
 This highlights significant attribution challenges in cybersecurity investigations.
 
-![](img.jpg)
+![](Img.jpg)
 
 #  Recommendations for Mitigation
 -  Enforce Stronger Authentication: Mandate multi-factor authentication (MFA) and password policies to reduce phishing and brute-force attacks.
