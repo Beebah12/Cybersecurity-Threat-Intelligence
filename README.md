@@ -92,11 +92,10 @@ This highlights significant attribution challenges in cybersecurity investigatio
 -  The UK, Germany, and Brazil remain high-value targets, while DDoS, phishing, and zero-day exploits continue to dominate attack vectors. 
 -  A combination of technological investment, workforce training, and international cooperation will be essential in building resilience against future attacks.
 
-Prepared by:                                                   |
-:-------------------------------------------------------------:| :-----------------------------------:
-IOTB TECH FELLOWSHIP,  DATA ANALYTICS CLASS OF 25              |   ![](iotblogo.jpg)
+Prepared by:                                                   
+IOTB TECH FELLOWSHIP,  DATA ANALYTICS CLASS OF 25     
+![](iotblogo.jpg)
 Date: 27 JUNE 2025                                
-1
 Data Source: Kaggle Dataset
 
 
