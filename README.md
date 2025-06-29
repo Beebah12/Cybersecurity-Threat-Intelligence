@@ -5,7 +5,7 @@
 # Introduction : Project Overview
 
 ## Title:Global Cybersecurity Threats Analysis (2015–2024)
-This is a power BI project on threat analysis sourced from **Kaggle**.
+This is a power BI project on threat analysis.
 This report analyzes 3,000 cybersecurity incidents recorded between 2015-2024 across 10 countries, sourced from Kaggle's cybersecurity dataset. Key findings reveal $151 billion in financial losses, 2 billion users affected, and an average 36-hour resolution time for security incidents. The UK, Germany, and Brazil emerged as the most impacted nations, while DDoS, phishing, and zero-day exploits were the most damaging attack vectors.
 
 Dataset: Contains cyberattack records across countries, industries, and attack types, including fields like:
