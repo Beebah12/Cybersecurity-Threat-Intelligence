@@ -32,7 +32,7 @@ This project followed a structured data-driven approach to analyze global cybers
 
 Below are screenshots of data in MS Excel and Power BI during data modelling and analysis
 
-To interact with this visual, [CLICK HERE](https://app.powerbi.com/groups/me/reports/a8ffdf04-4321-4edb-a989-ab2786781005/b244115d95e46990e36e?experience=power-bi)
+To interact with this visual, [CLICK HERE](https://app.powerbi.com/view?r=eyJrIjoiNDRkYjRmYjEtZjZkMi00MTA0LTk5YmYtYzNmZjYwMThlNDgyIiwidCI6IjcwYTQ5OGM0LTY5YjQtNDdlOS04NjExLTE3MmJmMzg3MzU5MyJ9)
 
 Data in Excel                        | Data in Power BI                     | Data Modelling
 :-----------------------------------:| :-----------------------------------:| :-----------------------------------:
